@@ -2,6 +2,9 @@
 
 Epic Food is your ultimate destination for delicious meals delivered right to your doorstep, perfect for those late-night gaming sessions! Built on a robust microservices architecture and powered by cutting-edge technologies, Epic Food redefines the food delivery experience with its seamless, efficient, and feature-rich platform.
 
+##### Here is an overview of application architecture
+![Architecture Overview](./Screenshot 2024-06-04 021154.png)
+
 ## Key Features 🚀
 
 - **User-Friendly Frontends**: Developed with Next.js and React, our user and admin frontends provide intuitive interfaces for effortless navigation and interaction.
