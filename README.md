@@ -12,9 +12,11 @@ Epic Food is your ultimate destination for delicious meals delivered right to yo
 
 - **Microservices Architecture**: Leveraging Express, Typescript, and Docker, Epic Food is built on a scalable and resilient microservices architecture. The application comprises the following services:
 
+  - **[ClientUI](https://github.com/Shravan-Chaudhary/client-ui)**: Next.js frontend for customers to browse menus, place orders, and track deliveries.
+  - **[Deployment Config](https://github.com/Shravan-Chaudhary/epic-food-deployment)**: Kubernetes configuration files for container orchestration and deployment automation.
   - **[Auth Service](https://github.com/Shravan-Chaudhary/auth-service)**: Handles authentication and user management securely.
-  - **[Inventory/Catalog Service]()**: Manages restaurant menus, item availability, and pricing.
-  - **[Order Service]()**: Facilitates order processing, tracking, and fulfillment.
+  - **[Inventory/Catalog Service](https://github.com/Shravan-Chaudhary/inventory-service)**: Manages restaurant menus, item availability, and pricing.
+  - **[Order Service](https://github.com/Shravan-Chaudhary/order-service)**: Facilitates order processing, tracking, and fulfillment.
   - **[Websocket Service]()**: Powers real-time communication for order updates and notifications.
   - **[Notification Service]()**: Sends out alerts and notifications to users regarding their orders.
 
